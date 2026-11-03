@@ -51,7 +51,7 @@ python B站视频.py
 
 ```
 请输入B站视频链接（支持合集/单视频，多个合集用空格/逗号/换行分隔）:
-https://www.bilibili.com/video/BV1xx411c7mD
+https://www.bilibili.com/video/BV1xx411c7mD](https://www.bilibili.com/video/BV1GJ411x7h7
 ```
 
 支持直接输入 BV 号（如 `BV1xx411c7mD`），脚本会用正则自动提取。
